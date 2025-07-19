@@ -2,7 +2,7 @@
 # Iris Decision Tree Classifier
 
 This project applies a Decision Tree Classifier to the well-known Iris flower dataset, demonstrating how machine learning can be used for multi-class classification tasks. The notebook walks through the complete process—from data exploration and visualization to model training, evaluation, and prediction. By leveraging libraries like Scikit-learn, Pandas, and Seaborn, this project serves as a practical and beginner-friendly example of applying supervised learning to real-world data.
----
+
 
 ## 📊 Dataset
 
